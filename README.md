@@ -2,7 +2,7 @@
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🌱 I’m currently learning python, django and django rest framework.
+- 🌱 I’m currently learning about flutter.
 
 ## 🛠 &nbsp;Tech Stack
 
